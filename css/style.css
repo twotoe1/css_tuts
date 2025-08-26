@@ -1,0 +1,36 @@
+/*# sourceMappingURL=style.css.map */
+
+/* css selectors and there elements. These are most of the commonly used pseudo selectors for the cascading style sheet
+*/
+
+body {
+    /**/
+    font-size: 22px;
+}
+
+h1, h2 {
+    /* The pseudo selector, selects both the h1 and h2 for the styling. The comma seperates the two tags
+    which shows that its doing group selectio */
+    color: blue;
+}
+
+p {
+    /* The pseudo selector shows how to individually style elements by referring to thier tag names */
+    color: purple;
+}
+
+.gray {
+    /**/
+    color: gray;
+}
+
+#second {
+    /**/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.highlight {
+    /**/
+    text-transform: uppercase;
+    background-color: gold;
+}
