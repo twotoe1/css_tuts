@@ -1,0 +1,3 @@
+The css_tut is meant as a guide map to both html and the cascading style shhet(css). It shows how one could achieve building and styling a webpage. The tuts shows real working code and most of the lessons have been kept simple with the intention in mind that a beginner could follow along and grasp whats the code is doing.
+
+The lessons have been named after what its trying to achieve as per styling the page, comments have been added on explaining whats really intended to showcase.B
